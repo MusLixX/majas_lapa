@@ -1,0 +1,252 @@
+{
+    "10000" : {
+        "name" : "Discord",
+        "developer" : "Discord Inc.",
+        "category" : "Internet",
+        "image" : "img/discord.jpg",
+        "image-array" : [
+            {"source" : "img/Discord/Discord1.png", "alt" : "Discord, general"},
+            {"source" : "img/Discord/Discord2.png", "alt" : "Discord, writers"},
+            {"source" : "img/Discord/Discord3.png", "alt" : "Discord, Direct Messages"},
+            {"source" : "img/Discord/Discord4.png", "alt" : "Discord interface"}
+        ],
+        "video-array" : [
+            {"source" : "VKrfRQOTdb8"},
+            {"source" : "le_CE--Mnvs"},
+            {"source" : "rnYGrq95ezA"},
+            {"source" : "OIqyPJQAgT4"}
+        ],
+        "system" : "Windows",
+        "license" : "Freeware",
+        "size" : 65.6,
+        "short-description" : "Discord ir teksta, balss un video tērzēšanas programma, ko sākotnēji izveidoja datorspēļu spēlētājiem, lai tie varētu ar vienu otru sazināties, bet mūsdienās Discord izmanto ne tikai sākotnējā mērķauditorija. To sākotnēji izlaida 2015. gada 6. martā.",
+        "description" : "Discord ir balss sakaru klients, kas vislabāk un ērtāk izmanto slavenākās šāda veida programmas. Pirmkārt, lietojumprogramma būs noderīga spēlētājiem, jo ​​tā patērē ļoti maz sistēmas resursu, tādējādi spēlējot neietekmējot FPS. Programma ļauj jums sazināties pilnīgi bez maksas, nesatur kaitinošas reklāmas, slēptās maksas, augstākās klases abonementus un citas nepatīkamas lietas. Tas nodrošina stabilas konferences ar augstu audio kvalitāti, var strādāt rācijsaziņas režīmā, tai ir spēcīga aizsardzība pret DDoS uzbrukumiem, kā arī tiek piedāvāts vienkāršākais un ātrākais konta izveides process. Nesaskaņas pēc koncepcijas ir ļoti līdzīgas TeamSpeak. Tas ir, lai sazinātos, lietotājam būs jāizveido serveris (tas ir bezmaksas un izdarīts ar diviem klikšķiem), un pēc tam uz to jāaicina nepieciešamie lietotāji. Uzaicinātajām personām ir iespēja sazināties gan balss režīmā, gan apmainīties ar īsziņām. Servera veidotājs var viegli \"sajaukt\" atsevišķus lietotājus, izveidot grupas utt. Visas iepriekš minētās funkcijas ir pieejamas tīmekļa vietnes Discord oficiālajam papildinājumam tīmekļa pārlūkiem un mobilajām versijām, kas ir pieejamas visām populārajām platformām. Kopumā mūsu priekšā ir lielisks TS, Skype un CurseVoise aizstājējs, kas pēc funkcionalitātes un veiktspējas salīdzina ar uzskaitītajiem programmatūras risinājumiem.",
+        "freeornot": "Bezmaksas",
+        "officialdownload" : "https://discord.com/api/download?platform=win"
+    },
+    "10001" : {
+        "name" : "Google Chrome",
+        "developer" : "Google",
+        "category" : "Internet",
+        "image" : "img/google.jpg",
+        "image-array" : [
+            {"source" : "img/GoogleChrome/GoogleChrome1.png", "alt" : "123131"},
+            {"source" : "img/GoogleChrome/GoogleChrome2.png", "alt" : "223131"},
+            {"source" : "img/GoogleChrome/GoogleChrome3.png", "alt" : "323131"},
+            {"source" : "img/GoogleChrome/GoogleChrome4.png", "alt" : "423131"}
+        ],
+        "video-array" : [
+            {"source" : "3tvGp_X-2Ek"},
+            {"source" : "dZBZaBcaUcg"},
+            {"source" : "Wgf7xyOqzdQ"},
+            {"source" : "SP9pXQtCZDI"}
+        ],
+        "system" : "Windows",
+        "license" : "Freeware",
+        "size" : 68.7,
+        "short-description" : "Google Chrome ir Google izstrādāta tīmekļa pārlūkprogramma, kas izmanto WebKit izkārtojuma dzinēju. Pirmais izlaidums kā beta versija Microsoft Windows operētājsistēmai notika 2008. gada 2. septembrī. Stabila versija publiski tika izlaista 2008. gada 11. decembrī.",
+        "description" : "Google Chrome ir viegls un ātrs interneta pārlūks ar milzīgu skaitu papildinājumu, kas ļauj ieviest gandrīz jebkuru funkcionalitāti. Pārlūkprogramma, kas ir Google produkts, ir ļoti cieši integrēta ar šī uzņēmuma tīmekļa pakalpojumiem, kas atvieglo to izmantošanu. Pārlūkprogrammas saskarne ir veidota tā, ka visa lietotāja uzmanība tiek koncentrēta uz tīmekļa lapu. Augšdaļā redzat tikai cilnes un adreses joslu. Ja jums ir grāmatzīmes, tās tiek parādītas arī. Pārlūks Chrome ir aprīkots ar visām progresīvajām tehnoloģijām. Šī ir \"adrešu joslas-meklētājprogramma\" un vizuālās grāmatzīmes, kā arī privātās cilnes un daudzas citas funkcijas. Kā jūs zināt, jūsu Google e-pasta konts kalpo kā pieteikšanās uz visiem citiem uzņēmuma pakalpojumiem. Pārlūks Chrome piedāvā pieteikties pārlūkprogrammā (lai arī tas izklausās dīvaini), un, ja to izdarīsit, bez atļaujas varēsit ātri ievadīt Google pakalpojumus. Turklāt, piesakoties jaunā datorā, jūs varat ātri importēt no mākoņa visas savas grāmatzīmes, instalētos papildinājumus utt. Tas ir ļoti ērti - pēc pārlūka restartēšanas pievienojumprogrammas tiks instalētas pašas. Tomēr jums jāpatur prātā, ka pēc atteikšanās no sava konta jūsu personas dati paliks pārlūkā Chrome, tāpēc jums jāpiesakās tikai datoros. Tehniskās ieviešanas ziņā katra pārlūka cilne ir atsevišķs process Task Manager. Tajā pašā laikā pašai pārlūkprogrammai ir savs procesu pārvaldnieks, kurā tiek parādīts tikai Chrome process un kurā tos var pārtraukt. Šajā pārvaldniekā visi procesi tiek parakstīti (kura cilne atbilst dotajam procesam). Ja cilne ievērojami palēnina jūsu datoru, tad jūs varat vienkārši izbeigt tā procesu, pilnībā neizslēdzot pārlūku. Google Chrome ir viena no populārākajām pārlūkprogrammām uz planētas, un tā bieži darbojas pat kā tendenču izstrādātāja \"pārlūku\" tirgū.",
+        "freeornot": "Bezmaksas",
+        "officialdownload" : "https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7BFD62DDBC-14C6-20BD-706F-C7744738E422%7D%26lang%3Den%26browser%3D3%26usagestats%3D0%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-stable-statsdef_1%26installdataindex%3Dempty/chrome/install/ChromeStandaloneSetup64.exe"
+    },
+    "10002" : {
+        "name" : "Windows 10",
+        "developer" : "Microsoft",
+        "category" : "Operētājsistēmas",
+        "image" : "img/win10.jpg",
+        "image-array" : [
+            {"source" : "img/Windows10/Windows101.png", "alt" : "123131"},
+            {"source" : "img/Windows10/Windows102.png", "alt" : "223131"},
+            {"source" : "img/Windows10/Windows103.png", "alt" : "323131"},
+            {"source" : "img/Windows10/Windows104.png", "alt" : "423131"}
+        ],
+        "video-array" : [
+            {"source" : "8d9FY3LpR4E"},
+            {"source" : "xz8W7yh3BBM"},
+            {"source" : "qCzT3wy_l2M"},
+            {"source" : "1TneCqdEZuU"}
+        ],
+        "system" : "Windows",
+        "license" : "Trial",
+        "size" : 18.6,
+        "short-description" : "Windows 10 ir Microsoft izstrādāta personālo datoru operētājsistēma, kuru izdeva 2015. gada 29. jūlijā.",
+        "description" : "Windows 10 ir operētājsistēma, kurā atkal parādījās izvēlne Sākt. Tas tiek atvērts tāpat kā Windows 7, lai gan Metro saskarne paliek un to var aktivizēt, izmantojot uzdevumjoslu. Jaunie produkti ietver virtuālos galddatorus, Metro lietojumprogrammu palaišanu logos, nedaudz modificētu saskarni un citas mazākas detaļas. Sāksim ar izvēlni Sākt. Operētājsistēmā Windows 8 daudziem to trūka, un pēc tam glābšanā nonāca īpašas programmas (un tās joprojām notiek), kas izslēdza Metro-screen sākuma ekrānu. Korporācija Microsoft saprata, ka ne visiem ir skārienekrāni (un ne visiem tie ir vajadzīgi), un jaunajā versijā Metro stila saskarne tika novirzīta uz fona. Sākotnēji izvēlne Sākt tiek izmantota pēc noklusējuma, un mainīto interfeisu var aktivizēt vadības paneļa iestatījumos. Sākuma izvēlnē tagad ir ietvertas Metro lietojumprogrammām un darbvirsmas programmām, kā arī tādā formā, kādā mēs esam pieraduši. Tagad šīs izvēlnes lielumu var mainīt, proti, palielināt vai samazināt tās augstumu. Ja esat izmantojis Metro stila lietojumprogrammas, tagad novērtēsit, ka tās darbojas ne tikai pilnekrāna režīmā, bet arī logos, tāpat kā darbvirsmas programmas. Windows 8 ir funkcija Snap, kas darbvirsmu sadala divās daļās: vienā tiek parādīta Metro lietotne, bet otrā darbvirsma vai kāda programma no parastās saskarnes. Šeit \"Windows 10\" šī funkcija ne tikai palika, bet arī attīstījās. Un tagad viņa var sadalīt ekrānu četrās lietojumprogrammās neatkarīgi no saskarnes, kurai tās ir paredzētas. Lai to izmantotu, jums jāvelk logs ar peli uz ekrāna stūri vai tā sānu. Turklāt jaunā sistēma ir aprīkota ar virtuāliem galddatoriem, kas iepriekš nebija pieejami. Uzdevumjoslā ir poga Uzdevuma skats. Noklikšķinot uz šīs pogas, jūs varat redzēt visas darbojošās lietojumprogrammas, kā arī izveidot jaunus (tukšus) darbvirsmas, uz kuriem varat ievietot jaunas programmas. Tas var būt noderīgi darbību nodalīšanai. Piemēram, darba programmas var būt vienā darbvirsmā, bet izklaides programmas - otrā. Izmantojot virtuālos galddatorus, vienā datorā varat organizēt vairāku cilvēku darbu. Tajā pašā laikā uzdevumjoslā darbojošās programmas tiek parādītas interesanti. Pašreizējā (pašlaik aktīvā) darbvirsmas programmu ikonas tiek parādītas parastajā režīmā, savukārt citu virtuālo tabulu programmu ikonas ir apzīmētas tikai ar nelielu joslu apakšā (skat. Ekrānuzņēmumus). Tādējādi mēs redzam visas programmas, kas darbojas datorā, bet tajā pašā laikā mēs varam tās atpazīt, piederot dažādiem galddatoriem. Labais vertikālais panelis, kas operētājsistēmā Windows 8 izslīd, kad kursors tiek pārvietots uz vienu no stūriem, atrodas arī jaunajā sistēmā, taču tagad tas nereaģē uz kursoru, bet to izsauc Win + C taustiņu kombinācija. Caur to (ja jums ir ērti izmantot taustiņu kombinācijas) tas ir ērti atveriet vadības paneli, sistēmas informācijas dialoglodziņu un personalizācijas dialoglodziņu. Ir arī barošanas poga un skaļuma slīdnis, taču Windows 10 lietotājs tos reti izmantos, jo ir vieglāk izslēgt datoru un pielāgot skaļumu. Interfeisā ir izmaiņas. Rāmji tika noņemti no logiem, taču tie tika padarīti par efektīvāku atvēršanas un aizvēršanas animāciju. Dažas ikonas ir mainītas, lai gan līdz brīdim, kad tiek izlaista Windows 10 galīgā versija, acīmredzot visas standarta ikonas tiks atjauninātas. Ja jūs esat viens no tiem, kam patīk Metro stila interfeiss, varat to aktivizēt. Ar peles labo pogu noklikšķiniet uz uzdevumjoslas un atlasiet Rekvizīti, pēc tam atvērtajā logā dodieties uz cilni Sākt izvēlni un noņemiet atzīmi no izvēles rūtiņas Lietot izvēlni Sākt, nevis Sākuma ekrāns. Tādējādi Windows 10 izstrādātāji apstiprina savu nodomu izveidot sistēmu, kas būtu piemērota visām ierīcēm. Neskatoties uz visām jaunajām funkcijām, Microsoft \"nīdējiem\" atkal paveras plašs kritikas lauks. Uzņēmums atkal mēģina mums pārdot kaut ko tādu, ko kopumā varētu ieviest jaunā servisa pakotnē operētājsistēmai Windows 8. Tomēr mēs jau esam pie tā pieraduši, un Windows 10, dažus gadus pēc pēdējās izlaišanas, visticamāk, pārspēs Windows 8 lietotāju skaita ziņā.",
+        "freeornot": "Maksas",
+        "officialdownload" : "https://www.microsoft.com/ru-ru/software-download/windows10"
+    },
+    "10003" : {
+        "name" : "Adobe Photoshop",
+        "developer" : "Adobe Systems",
+        "category" : "Multimedija",
+        "image" : "img/adobe_photoshop.jpg",
+        "image-array" : [
+            {"source" : "img/AdobePhotoshop/AdobePhotoshop1.png", "alt" : "123131"},
+            {"source" : "img/AdobePhotoshop/AdobePhotoshop2.png", "alt" : "223131"},
+            {"source" : "img/AdobePhotoshop/AdobePhotoshop3.png", "alt" : "323131"},
+            {"source" : "img/AdobePhotoshop/AdobePhotoshop4.png", "alt" : "423131"}
+        ],
+        "video-array" : [
+            {"source" : "VKrfRQOTdb8"},
+            {"source" : "le_CE--Mnvs"},
+            {"source" : "rnYGrq95ezA"},
+            {"source" : "OIqyPJQAgT4"}
+        ],
+        "system" : "Windows",
+        "license" : "Trial",
+        "size" : 38.8,
+        "short-description" : "Adobe Photoshop ir Adobe Systems izstrādāta grafikas rediģēšanas lietojumprogrammatūra. Adobe Photoshop pirmā versija tika izdota 1990. gada 19. februārī.",
+        "description" : "Adobe Photoshop ir programma, kuras efektivitāti un funkciju sarakstu nav iespējams apstrīdēt. Tie, kas atzīst šo faktu, ir profesionāli mākslinieki un dizaineri, kuri ir nopietni paplašinājuši savu radošo redzesloku, izmantojot šo populāro Adobe attēlu redaktoru. Neapšaubāmi, Photoshop ir nozares standarts, un tam ir iespaidīgs funkciju klāsts, kas modina iztēli un radošumu, lai radītu patiesus šedevrus. Bezgalīgas iespējas rediģēt attēlus ar nelielu kvalitātes zudumu vai bez tā - tas padara šo programmu īpašu un atšķir to no desmitiem citu attēlu redaktoru. Un Photoshop padara unikālu arī tādas funkcijas kā viedā automātiskā korekcija, maskas, HDR kadri, krāsu pārvaldība, pārklājuma efekti, otu komplekti, precīzās atlases rīki, slāņu pārvaldība un tā tālāk. Izmantojot šo programmu, jūs varat arī ātri salabot jebkuru fotoattēlu, izmantojot funkcijas, kas ļauj noņemt hromatisko aberāciju, objektīva deformāciju vai vinjetu. Krāsu pārvaldība vai krāsošana ir diezgan vienkāršs process arī Adobe Photoshop vidē, jo tai ir visi nepieciešamie rīki. Lai gan šīs pamata rediģēšanas iespējas ļoti pieprasa gan iesācēji, gan profesionāļi, Photoshop ir domāts digitālās fotogrāfijas ekspertiem un ir aprīkots ar vismodernākajiem un izsmalcinātākajiem rīkiem, lai sasniegtu vēl nebijušu augstumu digitālajā fotogrāfijā. Viena no interesantākajām programmas funkcijām ir rīki Content-Aware, kas ļauj lietotājiem noņemt jebkuru daļu no fotogrāfijas un aizstāt to ar cita attēla daļu, kas ļauj retušēt attēlus. Programmas veiktspēja ir ievērojami palielināta, pateicoties Mercury Graphics dzinēja izmantošanai, kas ļauj rediģēt fotoattēlus un videoklipus ar pārsteidzošu ātrumu. Toņu vadība ir arī vienkāršāka, un melnbaltās konvertēšanas funkcija ļauj izvēlēties no vairākiem sākotnējiem iestatījumiem. Sākot ar Creative Suite 3, Photoshop sāka piegādāt divos dažādos izdevumos: Standard un Advanced. Pēdējais nedaudz atšķiras no standarta, jo tajā ir iekļautas dažas papildu funkcijas, no kurām divas galvenās ir vērts izcelt. Pirmais ir paredzēts darbam ar 3D grafiku un ietver lielu rīku komplektu ēnu, atspulgu un animācijas veidošanai. Otrā funkcija ir paredzēta attēlu skaitliskai analīzei, un to var izmantot tādās jomās kā zinātne, medicīna un inženierzinātnes. Abi šī grafiskā redaktora izdevumi uzlabo darbplūsmu ar iespēju eksportēt un koplietot iepriekš iestatītos iestatījumus, savukārt modernā programmas saskarne ļauj visu darbu paveikt ar prieku.",
+        "freeornot": "Maksas",
+        "officialdownload" : "https://www.adobe.com/lv/products/photoshop/free-trial-download.html"
+    },
+    "10004" : {
+        "name" : "Skype",
+        "developer" : "Skype Technologies",
+        "category" : "Internet",
+        "image" : "img/skype.png",
+        "image-array" : [
+            {"source" : "img/Skype/Skype1.png", "alt" : "123131"},
+            {"source" : "img/Skype/Skype2.png", "alt" : "223131"},
+            {"source" : "img/Skype/Skype3.png", "alt" : "323131"},
+            {"source" : "img/Skype/Skype4.png", "alt" : "423131"}
+        ],
+        "video-array" : [
+            {"source" : "VKrfRQOTdb8"},
+            {"source" : "le_CE--Mnvs"},
+            {"source" : "rnYGrq95ezA"},
+            {"source" : "OIqyPJQAgT4"}
+        ],
+        "system" : "Windows",
+        "license" : "Freeware",
+        "size" : 71.1,
+        "short-description" : "Skype ir programma balss un video zvaniem. Izmantojot šo saziņas līdzekli, jūs varat zvanīt no datora uz datoru, kā arī no datora uz mobilajiem un fiksētajiem tālruņiem. Ir arī iespēja apmainīties ar īsziņām.",
+        "description" : "df",
+        "freeornot": "Bezmaksas",
+        "officialdownload" : "https://go.skype.com/windows.desktop.download"
+    },
+    "10005" : {
+        "name" : "CCleaner",
+        "developer" : "Piriform",
+        "category" : "Drošība",
+        "image" : "img/CCleaner.png",
+        "image-array" : [
+            {"source" : "img/CCleaner/CCleaner1.png", "alt" : "123131"},
+            {"source" : "img/CCleaner/CCleaner2.png", "alt" : "223131"},
+            {"source" : "img/CCleaner/CCleaner3.png", "alt" : "323131"},
+            {"source" : "img/CCleaner/CCleaner4.png", "alt" : "423131"}
+        ],
+        "video-array" : [
+            {"source" : "VKrfRQOTdb8"},
+            {"source" : "le_CE--Mnvs"},
+            {"source" : "rnYGrq95ezA"},
+            {"source" : "OIqyPJQAgT4"}
+        ],
+        "system" : "Windows",
+        "license" : "Freeware",
+        "size" : 29.1,
+        "short-description" : "CCleaner ir programma neizmantotu failu noņemšanai no sistēmas, kas ļauj paātrināt datoru.",
+        "description" : "CCleaner ir programma neizmantotu failu noņemšanai no sistēmas, kas ļauj paātrināt datoru. CCleaner apvieno jaudu un lietošanas ērtumu. Turklāt pastāvīgi atjauninājumi to vienmēr atjaunina. Pirmo reizi to lietojot, jāapgūst tīrīšanas funkcijas. Interfeisā ir divas pogas: \"Analīze\" un \"Tīrīšana\". Atlasot pirmo opciju, programma analizēs tikai diska stāvokli un parādīs, ko var noņemt. Šajā gadījumā pati dzēšana netiks veikta. Noklikšķinot uz pogas \"Tīrīšana\", CCleaner brīdinās, ka visi faili tiks izdzēsti. CCleaner ir \"prototipa\" programma. Tas parādījās ļoti sen, ar atjauninājumiem katru mēnesi. Tas rada pārliecību par programmu un runā arī par tās spēju pēc iespējas efektīvāk tīrīt sistēmu katru reizi, kad to sākat. Patiešām, izmaiņu sarakstos mēs pastāvīgi redzam jaunas funkcijas, jaunu programmu tīrīšanas ieviešanu un regulārus funkcionalitātes atjauninājumus. Notīrot, protams, lielākā daļa failu tiks noņemti no pārlūka kešatmiņas. Tomēr arī populāru lietojumprogrammu (Adobe Reader, BitTorrent, BlueStacks u.c.) atstātā atkrituma attīrīšana dod redzamus rezultātus. Sickliner ļauj arī tīrīt sistēmas reģistru. Noklikšķiniet uz pogas \"Meklēt problēmas\", un programma reģistrā atradīs tos ierakstus, kuriem nepieciešama noņemšana. Nospiežot pogu \"Labot\", tiks atvērts dialoglodziņš reģistra rezerves kopijas izveidošanai (noteikti izveidojiet to) un pēc tam - tieša reģistra tīrīšana. Cilnē Rīki varat atrast vairākus noderīgus rīkus. Lai iztīrītu vēl vairāk vietas diskā, varat meklēt failu dublikātus (opcija \"Atrast failus\"). Programma sākotnēji nevar identificēt dublikātus kā “nevēlamus” failus, jo CCleaner nezina, kurš no jums nepieciešamajiem dublikātiem un kurus var izdzēst. Šī tīrīšana jāveic papildus. Turklāt jūs varat apskatīt startēšanu un instalēto lietojumprogrammu sarakstu. Regulāri tīrīšanas profilakses pasākumi paildzinās jūsu sistēmas pareizu darbību. Pārī ar Sikliner varat izmantot Defraggler (programma cietā diska defragmentēšanai).",
+        "freeornot": "Bezmaksas",
+        "officialdownload" : "https://www.ccleaner.com/ccleaner/download/standard"
+    },
+    "10006" : {
+        "name" : "BPMN.io",
+        "developer" : "Small core team and supported by the Camunda community and contributors.",
+        "category" : "Web lietotne",
+        "image" : "img/Bpmn_io.png",
+        "image-array" : [
+            {"source" : "img/Bpmn_io/Bpmn_io1.png", "alt" : "123131"},
+            {"source" : "img/Bpmn_io/Bpmn_io2.png", "alt" : "223131"},
+            {"source" : "img/Bpmn_io/Bpmn_io3.png", "alt" : "323131"},
+            {"source" : "img/Bpmn_io/Bpmn_io4.png", "alt" : "423131"}
+        ],
+        "video-array" : [
+            {"source" : "VKrfRQOTdb8"},
+            {"source" : "le_CE--Mnvs"},
+            {"source" : "rnYGrq95ezA"},
+            {"source" : "OIqyPJQAgT4"}
+        ],
+        "system" : "Browser",
+        "license" : "Freeware",
+        "size" : 0,
+        "short-description" : "Pēc Camunda iniciatīvas Camunda BPM un Vācijas e-komercijas čempions Zalando veidotāji bpmn.io piedāvā rīkus, lai labāk sazinātos ar procesu un lēmumu pieņemšanas zināšanām.",
+        "description" : "Pēc Camunda iniciatīvas Camunda BPM un Vācijas e-komercijas čempions Zalando veidotāji bpmn.io piedāvā rīkus, lai labāk sazinātos ar procesu un lēmumu pieņemšanas zināšanām. Camunda ir uzņēmums ar ilgu pieredzi BPM. Vairāk nekā piecus gadus mēs palīdzam klientiem visā pasaulē efektīvi pielietot biznesa procesu vadību (BPM). 2013. gadā mēs laidām klajā Camunda, atvērtā koda, paplašināmu platformu biznesa procesu automatizēšanai ar BPMN 2.0 un Java. Svarīga mūsu BPM vīzijas sastāvdaļa ir BPMN 2.0, kas ir vispāratzīts biznesa procesu modelēšanas globālais standarts. Pirmkārt, tas ļauj vizualizēt biznesa procesus, tādējādi atvieglojot to uztveršanu, apspriešanu un mainīšanu. Tad atkal tiek definēts arī standartizēts faila formāts, kas ļauj brīvi apmainīties ar modelētām diagrammām atbilstošos modelēšanas rīkos. Mēs uzskatām, ka pilnu BPMN un citu modelēšanas dialektu potenciālu var izmantot tikai tad, ja cilvēki saņem lieliskus bezmaksas rīkus. Tiem, kas modelē, vajadzētu būt iespējai izveidot un koplietot BPMN 2.0 procesus ar citiem - tīmeklī un bez ierobežojumiem. Tiem, kas attīstās, vajadzētu spēt vizualizēt procesus savās lietojumprogrammās un bagātināt tos ar datiem, kas ir svarīgi lietojumprogrammu lietotājiem. Mēs esam uzsākuši vietni bpmn.io kā centienus nodrošināt pēc iespējas labākus BPMN rīkus: atvērts avots un brīvi lietojams ikvienam, kurš maina cilvēkus un organizācijas, izmantojot BPMN.",
+        "freeornot": "Bezmaksas",
+        "officialdownload" : "https://bpmn.io"
+    },
+    "10007" : {
+        "name" : "Wix.com",
+        "developer" : "Developers Avishai Abrahami, Nadav Abrahami, and Giora Kaplan.",
+        "category" : "Web lietotne",
+        "image" : "img/Wix_com.png",
+        "image-array" : [
+            {"source" : "img/Wix_com/Wix_com1.png", "alt" : "123131"},
+            {"source" : "img/Wix_com/Wix_com2.png", "alt" : "223131"},
+            {"source" : "img/Wix_com/Wix_com3.png", "alt" : "323131"},
+            {"source" : "img/Wix_com/Wix_com4.png", "alt" : "423131"}
+        ],
+        "video-array" : [
+            {"source" : "VKrfRQOTdb8"},
+            {"source" : "le_CE--Mnvs"},
+            {"source" : "rnYGrq95ezA"},
+            {"source" : "OIqyPJQAgT4"}
+        ],
+        "system" : "Browser",
+        "license" : "Freeware",
+        "size" : 0,
+        "short-description" : "SIA Wix.com ir Izraēlas programmatūras uzņēmums, kas nodrošina mākoņdatošanas tīmekļa izstrādes pakalpojumus. Tas ļauj lietotājiem izveidot HTML5 un mobilās vietnes, izmantojot tiešsaistes vilkšanas un nomešanas rīkus.",
+        "description" : "SIA Wix.com ir Izraēlas programmatūras uzņēmums, kas nodrošina mākoņdatošanas tīmekļa izstrādes pakalpojumus. Tas ļauj lietotājiem izveidot HTML5 un mobilās vietnes, izmantojot tiešsaistes vilkšanas un nomešanas rīkus. Paralēli galvenajai mītnei un citiem birojiem Izraēlā Wix ir arī biroji Brazīlijā, Kanādā, Vācijā, Indijā, Īrijā, Lietuvā, ASV un Ukrainā. Lietotāji savām vietnēm var pievienot sociālos spraudņus, e-komerciju, tiešsaistes mārketingu, kontaktu veidlapas, e-pasta mārketingu un kopienas forumus, izmantojot dažādas Wix izstrādātās un trešo pušu lietojumprogrammas. Wix vietņu veidotājs ir veidots uz freemium biznesa modeļa, gūstot savus ieņēmumus, izmantojot augstākās klases jauninājumus.",
+        "freeornot": "Bezmaksas",
+        "officialdownload" : "https://www.wix.com/account/sites"
+    },
+    "10008" : {
+        "name" : "Programma4",
+        "developer" : "Sksdfsdfsdfsdfype sg",
+        "category" : "Cits",
+        "image" : "img/logo.png",
+        "image-array" : [
+            {"source" : "img/Skype/Skype1.png", "alt" : "123131"},
+            {"source" : "img/Skype/Skype2.png", "alt" : "223131"},
+            {"source" : "img/Skype/Skype3.png", "alt" : "323131"},
+            {"source" : "img/Skype/Skype4.png", "alt" : "423131"}
+        ],
+        "video-array" : [
+            {"source" : "VKrfRQOTdb8"},
+            {"source" : "le_CE--Mnvs"},
+            {"source" : "rnYGrq95ezA"},
+            {"source" : "OIqyPJQAgT4"}
+        ],
+        "system" : "Windows",
+        "license" : "Freeware",
+        "size" : 62136.2,
+        "short-description" : "vrtv rtv r",
+        "description" : "sdfsdfsdfsdf",
+        "freeornot": "Bezmaksas",
+        "officialdownload" : ""
+    },
+    "10009" : {
+        "name" : "Programma5",
+        "developer" : "sdfsdfsdf Tsdfsdfechnolsdfsogies",
+        "category" : "Cits",
+        "image" : "img/logo.png",
+        "image-array" : [
+            {"source" : "img/Skype/Skype1.png", "alt" : "123131"},
+            {"source" : "img/Skype/Skype2.png", "alt" : "223131"},
+            {"source" : "img/Skype/Skype3.png", "alt" : "323131"},
+            {"source" : "img/Skype/Skype4.png", "alt" : "423131"}
+        ],
+        "video-array" : [
+            {"source" : "VKrfRQOTdb8"},
+            {"source" : "le_CE--Mnvs"},
+            {"source" : "rnYGrq95ezA"},
+            {"source" : "OIqyPJQAgT4"}
+        ],
+        "system" : "Windows",
+        "license" : "Freeware",
+        "size" : 6346.2,
+        "short-description" : "rtfdsf",
+        "description" : "sdfsfsds",
+        "freeornot": "Bezmaksas",
+        "officialdownload" : ""
+    }
+} 
