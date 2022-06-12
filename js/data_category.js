@@ -11,3 +11,4 @@ function goInLietotneCategory() {
     category = $(this).attr('data-art');
     localStorage.setItem('category', JSON.stringify(category));
 }
+console.log('Aleksandrs Korolovs');
